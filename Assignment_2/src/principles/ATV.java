@@ -9,6 +9,7 @@ class ATV extends Vehicle{
 
 	public void move(){
 		System.out.println("\nATV used in off road driving");
+	
 	}
 
 
